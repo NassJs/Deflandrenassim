@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm DEFLANDRE NASSIM</h1>
+<h1 align="center">Hi 👋, I'm NASSIM</h1>
 <h3 align="center">Fascinated by the web I am a young developer who learns every day</h3>
 
 
